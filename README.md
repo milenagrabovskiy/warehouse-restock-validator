@@ -6,9 +6,19 @@
 python3 -m venv .venv
 ```
             
-        Activate the virtual environment in macos:
+        Activate the virtual environment in Mac os:
 ```bash
 source .venv/bin/activate
+```
+
+        Activate the virtual environment in Windows (Command Prompt):
+```cmd
+.venv\Scripts\activate
+```
+
+        Activate the virtual environment in Windows (PowerShell):
+```powershell
+.venv\Scripts\Activate.ps1
 ```
 
 ## Install dependencies
